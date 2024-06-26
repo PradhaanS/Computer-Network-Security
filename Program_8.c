@@ -54,3 +54,8 @@ int main() {
 
     return 0;
 }
+
+//sudo apt update
+//sudo apt install libssl-dev
+//gcc -o aes p8.c -lssl -lcrypto
+//./aes
